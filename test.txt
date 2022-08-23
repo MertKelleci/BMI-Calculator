@@ -1,0 +1,7 @@
+backgroundColor: Colors.pink,
+        appBarTheme: const AppBarTheme(
+          color: Color(0xFF0A0E21),
+        ),
+        floatingActionButtonTheme: const FloatingActionButtonThemeData(
+          backgroundColor: Color(0xFF0A0E21),
+        ),
